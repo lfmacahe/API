@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984230388747",
+    "project_id": "projeto-api-aeb14",
+    "storage_bucket": "projeto-api-aeb14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984230388747:android:39128ec7f146d71ad3930e",
+        "android_client_info": {
+          "package_name": "com.example.formulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984230388747-q4sl6l7nggsaugfv4ap7042alv0c8rns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9grq56tTSetSzs9EWuVN9GX31Ub-mjHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984230388747-q4sl6l7nggsaugfv4ap7042alv0c8rns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
